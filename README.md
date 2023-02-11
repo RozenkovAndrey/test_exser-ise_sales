@@ -2,5 +2,5 @@
 
 ```python
 def name(nnn):
-nnn = nnn*2
+    nnn = nnn*2
 ```
